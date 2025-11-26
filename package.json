@@ -1,0 +1,25 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayguptha95/ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinayguptha95/ci-cd/issues"
+  },
+  "homepage": "https://github.com/vinayguptha95/ci-cd#readme",
+  "devDependencies": {
+    "jtest": "^0.0.1"
+  }
+}
